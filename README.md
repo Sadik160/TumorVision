@@ -12,7 +12,7 @@ This project is focused on building a deep learning model that can detect brain 
 - ✅ Applied **data augmentation** and **dropout** to reduce overfitting
 - ✅ Used **focal loss** to handle class imbalance
 - ✅ Integrated **callback functions** like ModelCheckpoint and ReduceLROnPlateau
-- ✅ Achieved **95% training accuracy** and **68% validation accuracy**
+- ✅ Achieved **95% training accuracy** and **85% validation accuracy**
 - ✅ Grad-CAM support for **visual explanation** of predictions *(in progress)*
 - ✅ Future upgrade to **multi-class classification** *(glioma, meningioma, pituitary)*
 
