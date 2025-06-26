@@ -17,6 +17,6 @@ This project is focused on building a deep learning model that can detect brain 
 - ✅ Future upgrade to **multi-class classification** *(glioma, meningioma, pituitary)*
 
 ---
-
+👤 Developed By Al Sadik Data Science Student (2nd Year) United International University, Dhaka
 
 
